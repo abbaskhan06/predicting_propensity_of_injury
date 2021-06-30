@@ -1,1 +1,1 @@
-# predicting_propensity_of_injury_using_logistic_regression_in_R
+# Predicting propensity of injury using logistic regression modelling in R
